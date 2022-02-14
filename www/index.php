@@ -28,7 +28,7 @@ $description = "Fill out brackets for free online to take your shot at winning o
     <link rel="mask-icon" href="<?php echo $enConfigClient['environment']['s3_uploads_url']; ?>/skins/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#FFFFFF">
-
+    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=08a2ff19"></script>
 </head>
 <body>
     <div id="en-header-layout-container"></div>
